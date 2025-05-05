@@ -1,4 +1,4 @@
-# Data Science Project
+### Data Science Project
 
 This project involves:
 - Data collection
@@ -10,4 +10,4 @@ This project involves:
 - Python
 - Pandas
 - NumPy
-- Matplotlib
+- Matplotlib 
